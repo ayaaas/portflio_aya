@@ -12,7 +12,7 @@ const ProfileImage = () => {
         {/* Profile image */}
         <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-white shadow-2xl hover-lift">
           <Image
-            src="/assets/images/WhatsApp_Image_2025-01-27 à 13.09.23_03e1ada6.jpg"
+            src=`${import.meta.env.BASE_URL}assets/images/whatsapp_image_2025_01_27_130923.jpg`
             alt="Anam Aya - Full Stack Developer"
             className="w-full h-full object-cover"
           />
