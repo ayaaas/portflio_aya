@@ -23,7 +23,7 @@ const ProjectsCuratedCaseStudies = () => {
       detailedDescription: " Reservation Platform is a full-stack web application designed to streamline the booking process for ANP services. Features include user authentication, real-time availability checking, booking management, and automated confirmation systems.",
       image: "/images/images.jpg",
       additionalImages: [
-        "public/assets/images/téléchargement.png"
+        "/assets/images/telechargement.png"
       ],
       technologies: ["React", "Node.js", "MongoDB", "Express", "JWT", "Tailwind CSS"],
       keyFeatures: [
@@ -43,14 +43,14 @@ const ProjectsCuratedCaseStudies = () => {
       category: "Service Platform",
       description: "Curated list of agencies with transparent pricing, verified providers, and detailed cost breakdowns to avoid hidden fees.",
       detailedDescription: "UEvent is a B2C service platform connecting clients with verified agencies. Features transparent pricing with detailed cost breakdowns, verified provider listings, and a dedicated platform for agencies to showcase their work and attract potential clients.",
-      image: "public/assets/images/accueil_event.png",
+      image: "/assets/images/accueil_event.png",
       additionalImages: [
-        "public/assets/images/contact.png",
-        "public/assets/images/loginevent.png",
-        "public/assets/images/payement.png",
-        "public/assets/images/Capture_d’écran 2025-07-19 011956.png",
-        "public/assets/images/payement_2.png",
-        "public/assets/images/profile.png",
+        "/assets/images/contact.png",
+        "/assets/images/loginevent.png",
+        "/assets/images/payement.png",
+        "/assets/images/capture_screenshot_2025-07-19 011956.png",
+        "/assets/images/payement_2.png",
+        "/assets/images/profile.png",
       ],
       technologies: ["React", "Node.js", "MongoDB", "Express", "Stripe", "Tailwind CSS"],
       keyFeatures: [
@@ -72,8 +72,8 @@ const ProjectsCuratedCaseStudies = () => {
       category: "Backend System",
       description: "Robust backend system for marketplace applications with user management, product catalog, and order processing capabilities.",
       detailedDescription: "A comprehensive backend system designed for marketplace applications. Features include user authentication, product management, order processing, payment integration, and real-time notifications.",
-      image: "public/assets/images/téléchargement.png",
-      additionalImages: ["public/assets/images/téléchargement_1.jpg",
+      image: "/assets/images/telechargement.png",
+      additionalImages: ["/assets/images/telechargement_1.jpg",
       ],
       technologies: ["Node.js", "Express", "PostgreSQL", "JWT", "Stripe API", "Socket.io"],
       keyFeatures: [
@@ -94,9 +94,9 @@ const ProjectsCuratedCaseStudies = () => {
       category: "Creative Tool",
       description: "Digital art and color palette generation tool for designers and artists to create and manage color schemes.",
       detailedDescription: "Abstract Palette is a creative tool designed for digital artists and designers. It provides advanced color palette generation, color harmony analysis, and palette management features.",
-      image: "public/assets/images/Capture_d'écran 2025-04-16 030157.png",
+      image: "/assets/images/capture_screenshot_2025-04-16 030157.png",
       additionalImages: [
-        "public/assets/images/Capture_d'écran 2025-04-16 030453.png",
+        "/assets/images/capture_screenshot_2025-04-16 030453.png",
       ],
       technologies: ["React", "Canvas API", "Color Theory Algorithms", "Local Storage", "CSS3"],
       keyFeatures: [
@@ -118,7 +118,7 @@ const ProjectsCuratedCaseStudies = () => {
       category: "Mobile App",
       description: "Flutter mobile music streaming app with personalized recommendations, offline storage, and seamless audio playback.",
       detailedDescription: "Music Appl is a Flutter mobile music streaming app designed for personalized listening experiences. Features include favorite mechanism, recommendation system based on genres, navigation drawer, light/dark themes, SQFLite for offline storage, and audioplayers for seamless playback.",
-      image: "public/assets/images/Capture_d’écran 2025-01-12 221017.png",
+      image: "/assets/images/capture_screenshot_2025-01-12 221017.png",
       additionalImages: [
         
       ],
