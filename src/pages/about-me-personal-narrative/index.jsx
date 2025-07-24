@@ -81,9 +81,10 @@ const AboutMePersonalNarrative = () => {
               </div>
 <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
   {/* Profile Image */}
-  <div className="order-2 lg:order-1" style={{ marginTop: '-40rem' }}>
-    <ProfileImage />
-  </div>
+ <div className="order-2 lg:order-1 mt-0 lg:-mt-[40rem]">
+  <ProfileImage />
+</div>
+
 
   {/* Personal Story */}
   <div className="order-1 lg:order-2">
