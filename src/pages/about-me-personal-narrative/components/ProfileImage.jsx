@@ -4,7 +4,8 @@ import Image from '../../../components/AppImage';
 const ProfileImage = () => {
   return (
     <div className="relative">
-      <div className="relative overflow-hidden rounded-full w-[500px] h-[500px] shadow-lg hover-lift">
+      <div className="relative overflow-hidden rounded-full w-[300px] h-[300px] sm:w-[400px] sm:h-[400px] md:w-[500px] md:h-[500px] shadow-lg hover-lift mx-auto">
+
         <Image
           src="assets/images/whatsapp_image_2025_01_27_130923.jpg"
           alt="Anam Aya - Full Stack Developer in his development environment"
