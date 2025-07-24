@@ -41,7 +41,8 @@ const HeroSectionDeveloperPortfolio = () => {
         <BackgroundPattern />
         
         {/* Main Hero Section */}
-        <main className="relative z-10 min-h-screen flex items-center">
+        <main className="relative z-10 min-h-screen flex items-center pb-10">
+
           <div className="w-full px-6 lg:px-8 pt-16">
             <div className="max-w-7xl mx-auto">
               <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
