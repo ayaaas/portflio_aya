@@ -6,7 +6,7 @@ const ProfileImage = () => {
     <div className="relative">
       <div className="relative overflow-hidden rounded-full w-[500px] h-[500px] shadow-lg hover-lift">
         <Image
-          src=`${import.meta.env.BASE_URL}assets/images/whatsapp_image_2025_01_27_130923.jpg`
+          src="assets/images/whatsapp_image_2025_01_27_130923.jpg"
           alt="Anam Aya - Full Stack Developer in his development environment"
           className="w-full h-full object-cover"
         />
