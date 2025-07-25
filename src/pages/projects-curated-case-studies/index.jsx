@@ -92,22 +92,18 @@ const ProjectsCuratedCaseStudies = () => {
       id: 4,
       title: "Abstract Palette",
       category: "Creative Tool",
-      description: "Digital art and color palette generation tool for designers and artists to create and manage color schemes.",
-      detailedDescription: "Abstract Palette is a creative tool designed for digital artists and designers. It provides advanced color palette generation, color harmony analysis, and palette management features.",
+      description: "Landing Page for an Art Gallery to display informations .",
+      detailedDescription: "A modern and visually appealing landing page designed to showcase an art gallery's collections, exhibitions, and essential information.",
       image: "/assets/images/capture_screenshot_2025-04-16 030157.png",
       additionalImages: [
         "/assets/images/capture_screenshot_2025-04-16 030453.png",
       ],
       technologies: ["React", "Canvas API", "Color Theory Algorithms", "Local Storage", "CSS3"],
       keyFeatures: [
-        "Color palette generation",
-        "Color harmony analysis",
-        "Palette export functionality",
-        "Color accessibility checker",
-        "Gradient generator",
-        "Color picker tools",
-        "Save and organize palettes",
-        "Mobile-responsive design"
+        "Featured Artwork Display",
+        " Elegant UI/UX",
+        "Responsive Design"
+       
       ],
 
     },
